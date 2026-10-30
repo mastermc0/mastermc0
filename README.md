@@ -2,6 +2,10 @@
 
 I build and fix integrations for [Home Assistant](https://www.home-assistant.io/), mostly in Python, and look after a self-hosted home network (Pi-hole, Unbound, Lancache).
 
+**Maintaining**
+
+- **[meteoalarmapi](https://github.com/mastermc0/meteoalarmapi)**: a maintained fork of meteoalertapi for weather alerts across European regions from MeteoAlarm.org, with point-to-area matching via MeteoAlarm's geocodes and an `include_expired` option
+
 **Recent contributions**
 
 - **[ConnectLife](https://github.com/oyvindwe/connectlife-ha)**: Hisense washing machine support, including device mapping, program phases, permissions and fixes for weight and spin-speed scaling ([#671](https://github.com/oyvindwe/connectlife-ha/pull/671), [#782](https://github.com/oyvindwe/connectlife-ha/pull/782), [#785](https://github.com/oyvindwe/connectlife-ha/pull/785), [#787](https://github.com/oyvindwe/connectlife-ha/pull/787))
